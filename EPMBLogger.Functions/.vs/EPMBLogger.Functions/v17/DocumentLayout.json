@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C678927F-1563-4B7C-B88C-44DCCECFD783}|EPMBLogger.Functions\\EPMBLogger.Functions.csproj|c:\\users\\surajnarayandarade\\documents\\epm-blogger-functions\\epmblogger.functions\\epmblogger.functions\\processmediaqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C678927F-1563-4B7C-B88C-44DCCECFD783}|EPMBLogger.Functions\\EPMBLogger.Functions.csproj|solutionrelative:epmblogger.functions\\processmediaqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C678927F-1563-4B7C-B88C-44DCCECFD783}|EPMBLogger.Functions\\EPMBLogger.Functions.csproj|c:\\users\\surajnarayandarade\\documents\\epm-blogger-functions\\epmblogger.functions\\epmblogger.functions\\blobcreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C678927F-1563-4B7C-B88C-44DCCECFD783}|EPMBLogger.Functions\\EPMBLogger.Functions.csproj|solutionrelative:epmblogger.functions\\blobcreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,24 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EPMBLogger.Functions",
+              "DocumentIndex": 0,
+              "Title": "ProcessMediaQueue.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\ProcessMediaQueue.cs",
+              "RelativeDocumentMoniker": "EPMBLogger.Functions\\ProcessMediaQueue.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\ProcessMediaQueue.cs",
+              "RelativeToolTip": "EPMBLogger.Functions\\ProcessMediaQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:59:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EPMBLogger.Functions.csproj",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "RelativeToolTip": "EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-17T11:25:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T11:25:57.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BlobCreatedHandler.cs",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\BlobCreatedHandler.cs",
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\BlobCreatedHandler.cs",
@@ -52,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Function1.cs",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\Function1.cs",
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\Function1.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "EPMBLogger.Functions\\Function1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T13:19:09.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T13:19:09.108Z"
             }
           ]
         }
