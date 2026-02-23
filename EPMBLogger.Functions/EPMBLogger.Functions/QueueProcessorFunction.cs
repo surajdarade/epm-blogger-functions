@@ -17,7 +17,7 @@ namespace EPMBlogger.Functions
 
         [Function("QueueProcessorFunction")]
         public async Task Run(
-            [QueueTrigger("image-processing-queue", Connection = "AzureWebJobsStorage")]
+            [QueueTrigger("media-processing-queue", Connection = "AzureWebJobsStorage")]
             string message)
         {
             _logger.LogInformation($"Queue message received: {message}");

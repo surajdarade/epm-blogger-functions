@@ -42,8 +42,7 @@
               "RelativeToolTip": "EPMBLogger.Functions\\FileMetadataEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:04:42.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:04:42.48Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\QueueProcessorFunction.cs",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\QueueProcessorFunction.cs",
               "RelativeToolTip": "EPMBLogger.Functions\\QueueProcessorFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T11:10:11.453Z",
               "EditorCaption": ""
@@ -64,12 +63,11 @@
               "Title": "EPMBLogger.Functions.csproj",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
-              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\EPMBLogger.Functions.csproj*",
-              "RelativeToolTip": "EPMBLogger.Functions\\EPMBLogger.Functions.csproj*",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
+              "RelativeToolTip": "EPMBLogger.Functions\\EPMBLogger.Functions.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T11:10:11.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:10:11.615Z"
             },
             {
               "$type": "Document",
@@ -79,7 +77,7 @@
               "RelativeDocumentMoniker": "EPMBLogger.Functions\\BlobUploadFunction.cs",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\epm-blogger-functions\\EPMBLogger.Functions\\EPMBLogger.Functions\\BlobUploadFunction.cs",
               "RelativeToolTip": "EPMBLogger.Functions\\BlobUploadFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T11:10:11.7Z",
               "EditorCaption": ""
@@ -94,8 +92,7 @@
               "RelativeToolTip": "EPMBLogger.Functions\\Function1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:10:11.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:10:11.707Z"
             }
           ]
         }

@@ -13,7 +13,7 @@ namespace EPMBlogger.Functions
             _logger = logger;
         }
 
-        [Function("BlobProcessor")]
+        [Function("BlobUploadFunction")]
         [QueueOutput("media-processing-queue", Connection = "AzureWebJobsStorage")]
         public string Run(
             [BlobTrigger("images/{name}", Connection = "AzureWebJobsStorage")]
